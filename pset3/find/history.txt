@@ -1,0 +1,1000 @@
+  659  ./caesar 3
+  660  make50 caesar
+  661  ./caesar 3
+  662  make50 caesar
+  663  ./caesar 3
+  664  make50 caesar
+  665  ./caesar 3
+  666  clear
+  667  make50 caesar
+  668  ./caesar
+  669  ./caesar 3
+  670  clear
+  671  make50 caesar
+  672  ./caesar 2
+  673  clear
+  674  make50 caesar
+  675  ./caesar 2
+  676  make50 caesar
+  677  ./caesar 3
+  678  make50 caesar
+  679  ./caesar 3
+  680  make50 caesar
+  681  ./caesar 3
+  682  make50 caesar
+  683  ./caesar 3
+  684  ./caesar 2
+  685  make50 caesar
+  686  ./caesar 2
+  687  make50 caesar
+  688  ./caesar 2
+  689  make50 caesar
+  690  ./caesar 2
+  691  make50 caesar
+  692  ./caesar 2
+  693  make50 caesar
+  694  ./caesar 2
+  695  make50 caesar
+  696  ./caesar 2
+  697  make50 caesar
+  698  ./caesar 2
+  699  make50 caesar
+  700  ./caesar 2
+  701  make50 caesar
+  702  ./caesar 2
+  703  make50 caesar
+  704  ./caesar 2
+  705  make50 caesar
+  706  ./caesar 2
+  707  make50 caesar
+  708  ./caesar 2
+  709  make50 caesar
+  710  ./caesar 2
+  711  make50 caesar
+  712  ./caesar 2
+  713  make50 caesar
+  714  ./caesar 2
+  715  make50 caesar
+  716  ./caesar 2
+  717  make50 caesar
+  718  ./caesar 2
+  719  ./caesar 1
+  720  make50 caesar
+  721  ./caesar 1
+  722  ./caesar 2
+  723  сдуфк
+  724  clear
+  725  make50 caesar
+  726  ./caesar 2
+  727  make50 caesar
+  728  ./caesar 2
+  729  make50 caesar
+  730  ./caesar 2
+  731  make50 caesar
+  732  ./caesar
+  733  ./caesar 0
+  734  ./caesar 1
+  735  check50 2014.fall.pset2.caesar caesar.c
+  736  make50 caesar
+  737  check50 2014.fall.pset2.caesar caesar.c
+  738  ./caesar 65
+  739  make50 caesar
+  740  ./caesar
+  741  ./caesar 65
+  742  ./caesar 2
+  743  make50 caesar
+  744  ./caesar
+  745  ./caesar 2
+  746  ./caesar 25
+  747  ./caesar 26
+  748  ./caesar 65
+  749  make50 caesar
+  750  ./caesar 65
+  751  make50 caesar
+  752  ./caesar 65
+  753  make50 caesar
+  754  ./caesar 65
+  755  make50 caesar
+  756  ./caesar 65
+  757  make50 caesar
+  758  ./caesar 65
+  759  make50 caesar
+  760  ./caesar 65
+  761  make50 caesar
+  762  ./caesar 65
+  763  make50 caesar
+  764  ./caesar 65
+  765  check50 2014.fall.pset2.caesar caesar.c
+  766  screenfetch
+  767  '/home/vlad/Загрузки/virtualbox-5.0_5.0.20-106931~Ubuntu~xenial_amd64.deb' 
+  768  sudo apt-get install /home/vlad/Загрузки/virtualbox-5.0_5.0.20-106931~Ubuntu~xenial_amd64.deb
+  769  tar -zxvf Geekbench-3.2.0-Linux.tar.gz
+  770  ls
+  771  tar -zxvf Geekbench-3.4.1-Linux.tar.gz
+  772  cd dist/Geekbench-3.4.1-Linux/
+  773  ./geekbench
+  774  mc
+  775  unzip /home/vlad/Загрузки/OSX10105AppStore.zip
+  776  jar xvf /home/vlad/Загрузки/OSX10105AppStore.zip
+  777  screenfetch
+  778  uptime
+  779  cd Dropbox/pset2/
+  780  ls | grep vigenere
+  781  make50 vigenere.c
+  782  make50 vigenere
+  783  ./vigenere abba
+  784  make50 vigenere
+  785  ./vigenere abba
+  786  make50 vigenere
+  787  ./vigenere abba
+  788  make50 vigenere
+  789  ./vigenere abba
+  790  ./vigenere 1
+  791  make50 vigenere
+  792  ./vigenere 1
+  793  ./vigenere
+  794  ./vigenere a
+  795  ./vigenere vrurpn^&*(*(
+  796  fffffffffffffffffff
+  797  ./vigenere vrurpn^&*(*(
+  798  fffffffffffffffffff
+  799  ./vigenere v
+  800  ./vigenere @#$$%%^^&*(()_
+  801  ./vigenere arg1
+  802  ./vigenere 1a
+  803  ./vigenere 1@
+  804  ./vigenere @#$
+  805  ./vigenere @#$%^
+  806  ./vigenere @#$%^&*
+  807  ./vigenere ()
+  808  ./vigenere &*
+  809  make50 vigenere
+  810  ./vigenre abba
+  811  ./vigenere abba
+  812  ./vigenere addf&*(()))_fghj
+  813  ./vigenere ad67889
+  814  ./vigenere %^&*
+  815  ./vigenere helloWorld
+  816  make50 vigenere
+  817  ./vigenere abba
+  818  make50 vigenere
+  819  ./vigenere vlad
+  820  make50 vigenere
+  821  ./vigenere vigenere
+  822  make50 vigenere
+  823  ./vigenere vigenere
+  824  make50 vigenere
+  825  ./vigenere vigenere
+  826  make50 vigenere
+  827  ./vigenere abba
+  828  make50 vigenere
+  829  ./vigenere ABBA
+  830  make50 vigenere
+  831  ./vigenere ABBA
+  832  make50 vigenere
+  833  ./vigenere ABBA
+  834  make50 vigenere
+  835  ./vigenere ABBA
+  836  make50 vigenere
+  837  ./vigenere ABBA
+  838  make50 vigenere
+  839  ./vigenere ABBA
+  840  make50 vigenere
+  841  ./vigenere ABBA
+  842  make50 vigenere
+  843  ./vigenere ABBA
+  844  ./vigenere sToRM
+  845  make50 vigenere
+  846  ./vigenere sToRM
+  847  make50 vigenere
+  848  ./vigenere sToRM
+  849  make50 vigenere
+  850  ./vigenere sToRM
+  851  make50 vigenere
+  852  ./vigenere sToRM
+  853  make50 vigenere
+  854  ./vigenere sToRM
+  855  make50 vigenere
+  856  ./vigenere sToRM
+  857  make50 vigenere
+  858  ./vigenere sToRM
+  859  make50 vigenere
+  860  ./vigenere sToRM
+  861  make50 vigenere
+  862  ./vigenere abc
+  863  make50 vigenere
+  864  ./vigenere abc
+  865  make50 vigenere
+  866  ./vigenere abc
+  867  make50 vigenere
+  868  ./vigenere abc
+  869  make50 vigenere
+  870  ./vigenere abc
+  871  make50 vigenere
+  872  ./vigenere abc
+  873  make50 vigenere
+  874  ./vigenere abc
+  875  make50 vigenere
+  876  ./vigenere abc
+  877  make50 vigenere
+  878  ./vigenere abc
+  879  make50 vigenere
+  880  ./vigenere abc
+  881  make50 vigenere
+  882  ./vigenere abc
+  883  make50 vigenere
+  884  ./vigenere abc
+  885  make50 vigenere
+  886  ./vigenere abc
+  887  make50 vigenere
+  888  ./vigenere abc
+  889  clear
+  890  make50 vigenere
+  891  ./vigenere abc
+  892  make50 vigenere
+  893  ./vigenere abc
+  894  make50 vigenere
+  895  ./vigenere abc
+  896  ./vigenere ab
+  897  ./vigenere hello
+  898  make50 vigenere
+  899  ./vigenere
+  900  ./vigenere vigenere
+  901  make50 vigenere
+  902  ./vigenere vigenere
+  903  make50 vigenere
+  904  ./vigenere vigenere
+  905  make50 vigenere
+  906  ./vigenere vigenere
+  907  ./vigenere ab
+  908  make50 vigenere
+  909  ab
+  910  ./vigenere ab
+  911  make50 vigenere
+  912  ./vigenere ab
+  913  uname -m
+  914  VBoxManage list usbhost
+  915  sudo usermod -a -G vboxusers vlad
+  916  gnome-panel
+  917  sudo fdisk -l
+  918  ls
+  919  pwd
+  920  sudo dd if=/dev/sdb1 of=mac.iso
+  921  sudo add-apt-repository ppa:noobslab/themes
+  922  sudo apt-get update
+  923  sudo apt-get install mbuntu-y-ithemes-v4
+  924  sudo apt-get install mbuntu-y-icons-v4
+  925  sudo add-apt-repository ppa:noobslab/themes
+  926  sudo apt-get update
+  927  sudo apt-get install macbuntu-icons-v6
+  928  sudo apt-get install macbuntu-ithemes-v6
+  929  uptime
+  930  sudo add-apt-repository ppa:kokoto-java/omgubuntu-stuff
+  931  sudo apt-get update && sudo apt-get install mounty
+  932  mounty
+  933  sudo apt-get install mounty
+  934  Mounty
+  935  sudo apt-get install /home/vlad/Загрузки/mounty-0.2.1-all.deb
+  936  mounty
+  937  psyco
+  938  sudo apt-get install dmg2img
+  939  dmg2img /home/vlad/Загрузки/OS X Yosemite 10.10.5.dmg MacOSX
+  940  dmg2img /home/vlad/Загрузки/OS\ X\ Yosemite\ 10.10.5.dmg MacOSX
+  941  sudo dmg2img /home/vlad/Загрузки/OS\ X\ Yosemite\ 10.10.5.dmg MacOSX
+  942  dd if=/home/vlad/Загрузки/OS\ X\ Yosemite\ 10.10.5.dmg of= MacOSX
+  943  dd if=/home/vlad/Загрузки/OS\ X\ Yosemite\ 10.10.5.dmg of=MacOSX.iso
+  944  dmg2iso
+  945  sudo apt-get install dmg2iso
+  946  sudo modprobe hfsplus
+  947  dmg2img /home/vlad/Загрузки/OS\ X\ Yosemite 10.10.5.dmg MacOSX.img
+  948  dmg2img /home/vlad/Загрузки/OS\ X\ Yosemite\ 10.10.5.dmg MacOSX.img
+  949  7z x OS\ X\ Yosemite\ 10.10.5.dmg
+  950  sudo apt install p7zip-full
+  951  7z x OS\ X\ Yosemite\ 10.10.5.dmg
+  952  sudo mount -o loop -t hfsplus MacOSX.img /mnt
+  953  dmesg | tail
+  954  sudo mount -o loop -t hfsplus imagefile.img /mnt
+  955  sudo mount -o loop -t hfsplus MacOSX.img /mnt
+  956  7z x /home/vlad/Загрузки/Yosemite.dmg
+  957  7z l /home/vlad/Загрузки/Yosemite.dmg
+  958  sudo mount -o loop /home/vlad/Загрузки/MacOSX.img /mnt
+  959  sudo mount -o loop -t iso9660 /home/vlad/Загрузки/MacOSX.img /mnt
+  960  file /home/vlad/Загрузки/MacOSX.img
+  961  file -s MacOSX.img
+  962  sudo modprobe hfsplus
+  963  sudo mount -o loop -t hfsplus MacOSX.img /mnt
+  964  dmesg | tail
+  965  7z l OS\ X\ Yosemite\ [MAS].dmg
+  966  7z x OS\ X\ Yosemite\ [MAS].dmg
+  967  ls | grep hfs
+  968  sudo mount -oloop 2.hfs /mnt
+  969  sudo umount /mnt
+  970  dmg2img OS\ X\ Yosemite\ [MAS].dmg MacOSX.img
+  971  sudo mount -o loop -t hfsplus MacOSX.img /mnt
+  972  file /home/vlad/Загрузки/2.hfs
+  973  sudo apt-get install hfsplus hfsutils hfsprogs ntfsprogs
+  974  dd if=2.hfs of=Yosemite.iso
+  975  sudo apt-get install hfsplus hfsutils hfsprogs ntfsprogs
+  976  sudo apt-get install hfsprogs
+  977  7z l /home/vlad/Загрузки/Yosemite .dmg
+  978  7z l /home/vlad/Загрузки/Yosemite.dmg
+  979  7z l Yosemite.dmg
+  980  7z x Yosemite.dmg
+  981  sudo mount -o loop 2.hfs /mnt
+  982  exit
+  983  7z l InstallESD.dmg
+  984  7z x InstallESD.dmg
+  985  7z l InstallESD.dmg
+  986  7z -l 2.hfs
+  987  7z l 2.hfs
+  988  7z -x 2.hfs
+  989  7z x 2.hfs
+  990  7z x InstallESD.dmg
+  991  7z x InstallESD.dmg
+  992  7z l mac.iso
+  993  7z x /home/vlad/Загрузки/OSX10.8.4.dmg
+  994  7z l 10105.arc
+  995  7z x OSX10.8.4.dmg
+  996  7z x 2.hfs
+  997  dmg2img OSX10.8.4.dmg OSX10.8.4.iso
+  998  7z l /home/vlad/Загрузки/Empire EFI/EmpireEFI4AMD.iso
+  999  7z l EmpireEFI4AMD.iso
+ 1000  7z x EmpireEFI4AMD.iso
+ 1001  7z x 10.6.8.iso
+ 1002  file snow.arc
+ 1003  7z l snow.arc
+ 1004  7z x MacOs10.6.5_full.7z
+ 1005  7z l MacOs10.6.5_full.7z
+ 1006  7z x MacOs10.6.5_full.7z
+ 1007  sudo apt-get install /home/vlad/Загрузки/peazip_6.0.1.LINUX.GTK2-2_all.deb
+ 1008  sudo cp OS\ X\ Yosemite\ 10.10.5.dmg /media/vlad/usb
+ 1009  sudo cp OS\ X\ Yosemite\ 10.10.5.dmg /run/user/1000/gvfs/mtp:host=%5Busb%3A001%2C009%5D/SD\ card 
+ 1010  ls
+ 1011  pwd
+ 1012  nautilus
+ 1013  sudo nautilus
+ 1014  sudo pm-suspect
+ 1015  sudo pm-suspend
+ 1016  df
+ 1017  sudo dd if=/dev/sdb2 of=Yosemite.iso
+ 1018  sudo nautilus
+ 1019  history
+ 1020  df
+ 1021  sudo dd if=/dev/sdb2 of=Yosemite.iso
+ 1022  sudo nautilus
+ 1023  sudo dd if=/dev/sdb2 of=Yosemite.iso
+ 1024  sudo apt-get install-f
+ 1025  sudo apt-get install -f
+ 1026  sudo add-apt-repository ppa:noobslab/apps
+ 1027  sudo apt-get update
+ 1028  sudo apt-get install mutate
+ 1029  sudo add-apt-repository ppa:mutate/ppa
+ 1030  sudo apt-get update
+ 1031  sudo apt-get install mutate
+ 1032  wget https://github.com/qdore/Mutate/releases/download/v2.3/Mutate-2.3.deb
+ 1033  sudo apt-get install gdebi
+ 1034  sudo gdebi Mutate-2.3.deb
+ 1035  sudo apt-get install /home/vlad/Mutate-2.3.deb
+ 1036  sudo apt-get install -f
+ 1037  sudo apt-get autoclean
+ 1038  sudo apt-get autoremove
+ 1039  sudo apt-get clean
+ 1040  sudo apt-get autoclean
+ 1041  sudo apt-get install /home/vlad/Mutate-2.3.deb
+ 1042  sudo apt-get -f install
+ 1043  sudo apt-get update
+ 1044  sudo apt-get -f install
+ 1045  dpkg --get-selections
+ 1046  dpkg --configure -a
+ 1047  sudo dpkg --configure -a
+ 1048  sudo apt-get install /home/vlad/Mutate-2.3.deb
+ 1049  sudo apt-get install libboost-regex1.55-dev
+ 1050  sudo add-apt-repository ppa:nilarimogard/webupd8
+ 1051  sudo apt-get update
+ 1052  sudo apt-get install albert
+ 1053  sudo nautilus
+ 1054  sudo cp /home/vlad/Загрузки/OS\ X\ Yosemite\ AMD\ DeeKay\ [USB\ Bootable].dmg /media/vlad/usb/
+ 1055  sudo touch file
+ 1056  sudo rm file
+ 1057  sudo nautilus
+ 1058  sudo touch file
+ 1059  sudo rm file
+ 1060  sudo cp /home/vlad/Загрузки/OS\ X\ Yosemite\ AMD\ DeeKay\ [USB\ Bootable].dmg /media/vlad/untitled/
+ 1061  touch file
+ 1062  sudo touch file
+ 1063  sudo nautikus
+ 1064  sudo nautilus
+ 1065  sudo cp /home/vlad/Загрузки/ccc-4.1.7.4285.zip /media/vlad/237C-F74F/
+ 1066  sudo cp /home/vlad/Installation /media/vlad/237C-F74F/
+ 1067  7z l /home/vlad/Загрузки/OS\ X\ Yosemite\ 10.10.5.dmg | list.txt
+ 1068  7z l /home/vlad/Загрузки/OS\ X\ Yosemite\ 10.10.5.dmg >>  list.txt
+ 1069  df
+ 1070  sudo dd if=/home/vlad/Загрузки/OS\ X\ Yosemite\ AMD\ DeeKay\ [USB\ Bootable].dmg of=/dev/sdb1
+ 1071  nautilus
+ 1072  df
+ 1073  sudo mount /dev/sdb1
+ 1074  sudo cp /home/vlad/Загрузки/YosemiteAMDInstaller.dmg /media/vlad/untitled/
+ 1075  pwd
+ 1076  df
+ 1077  sudo dd if=/dev/sdb1 of=/home/vlad/YosemiteAMD.iso
+ 1078  sudo apt-get autoclean
+ 1079  sudo apt-get autoremove
+ 1080  sudo apt-get clean
+ 1081  sudo dd if=/dev/sdb1 of=/home/vlad/YosemiteAMD.iso
+ 1082  sudo nautilus
+ 1083  sudo apt-get update && sudo apt-get dist-upgrade && sudo apt-get autoremove
+ 1084  7z x /home/vlad/Загрузки/Mac\ OS\ X\ Yosemite\ hackintosh.zone.7z
+ 1085  vboxmanage "mac" --cpuidset 00000001 000106e5 00100800 0098e3fd bfebfbff
+ 1086  vboxmanage "Mac OS X Yosemite hackintosh.zone" --cpuidset 00000001 000106e5 00100800 0098e3fd bfebfbff
+ 1087  vboxmanage modifyvm "Mac OS X Yosemite hackintosh.zone" --cpuidset 00000001 000106e5 00100800 0098e3fd bfebfbff
+ 1088  vboxmanage modifyvm "mac" --cpuidset 00000001 000106e5 00100800 0098e3fd bfebfbff
+ 1089  less /proc/cpuinfo
+ 1090  7z l /home/vlad/Загрузки/Mac\ OS\ X\ Yosemite\ Niresh\ Intel\ and AMD Images.rar
+ 1091  7z l /home/vlad/Загрузки/Mac\ OS\ X\ Yosemite\ Niresh\ Intel\ and\ AMD\ Images.rar
+ 1092  uptime
+ 1093  sudo nautilus
+ 1094  cd /home/vlad/Dropbox/pset2/
+ 1095  ls | grep vigenere
+ 1096  ./vigenere
+ 1097  ./vigenere hello world
+ 1098  ./vigenere hell
+ 1099  ./vigenere he
+ 1100  make50  vigenere.c
+ 1101  ./vigenere a
+ 1102  ./vigenere ab
+ 1103  make50 vigenere.c
+ 1104  cd '/home/vlad/Dropbox/pset2/'
+ 1105  ls
+ 1106  ls | grep vigenere
+ 1107  make50 vigenere
+ 1108  ./vigenere a 
+ 1109  make50 vigenere
+ 1110  ./vigenere a 
+ 1111  ./vigenere ab
+ 1112  ./vigenere absolute
+ 1113  make50 vigenere
+ 1114  ./vigenere absolute
+ 1115  make50 vigenere
+ 1116  ./vigenere absolute
+ 1117  make50 vigenere
+ 1118  ./vigenere absolute
+ 1119  make50 vigenere
+ 1120  ./vigenere absolute
+ 1121  make50 vigenere
+ 1122  ./vigenere absolute
+ 1123  make50 vigenere
+ 1124  ./vigenere absolute
+ 1125  make50 vigenere
+ 1126  ./vigenere absolute
+ 1127  sudo apt-get install '/home/vlad/Загрузки/viber.deb' 
+ 1128  rm -rf ~/.local/share/Trash/info/* ~/.local/share/Trash/files/*
+ 1129  sudo rm -rf ~/.local/share/Trash/info/* ~/.local/share/Trash/files/*
+ 1130  locate windows
+ 1131  find windows
+ 1132  find *windows
+ 1133  find windows
+ 1134  grep windows
+ 1135  ls -l | grep Trash
+ 1136  touch file
+ 1137  rm file
+ 1138  sudo nautilus
+ 1139  sudo rm '/home/vlad/.local/share/Trash/info/remix.trashinfo' 
+ 1140  sudo apt-get install '/home/vlad/Загрузки/viber.deb' 
+ 1141  7z x '/home/vlad/Загрузки/Mac OS X Yosemite Niresh Intel and AMD Images.rar' 
+ 1142  7z x '/home/vlad/Загрузки/Mac\ OS\ X\ Yosemite\ Niresh\ Intel\ and\ AMD\ Images.rar' 
+ 1143  top
+ 1144  htop
+ 1145  top
+ 1146  ls -l
+ 1147  pwd
+ 1148  df
+ 1149  gksu nautilus
+ 1150  df
+ 1151  cp '/home/vlad/Загрузки/CS50 week3w (UA).mp4' /media/vlad/usb
+ 1152  cd '/home/vlad/Dropbox/pset2/vigenere.c'
+ 1153  cd '/home/vlad/Dropbox/pset2/'
+ 1154  ls | gpep vigenere
+ 1155  ls | grep vigenere
+ 1156  ll
+ 1157  clear
+ 1158  make50 vigenere
+ 1159  ./vigenere key
+ 1160  make50 vigenere
+ 1161  ./vigenere key
+ 1162  make50 vigenere
+ 1163  ./vigenere key
+ 1164  make50 vigenere
+ 1165  ./vigenere key
+ 1166  make50 vigenere
+ 1167  ./vigenere key
+ 1168  make50 vigenere
+ 1169  ./vigenere a
+ 1170  ./vigenere b
+ 1171  make50 vigenere
+ 1172  ./vigenere b
+ 1173  make50 vigenere
+ 1174  ./vigenere b
+ 1175  clear
+ 1176  make50 vigenere
+ 1177  ./vigenere b
+ 1178  make50 vigenere
+ 1179  ./vigenere b
+ 1180  ./vigenere bcd
+ 1181  make50 vigenere
+ 1182  ./vigenere abcd
+ 1183  make50 vigenere
+ 1184  ./vigenere abcd
+ 1185  make50 vigenere
+ 1186  ./vigenere abcd
+ 1187  make50 vigenere
+ 1188  ./vigenere abcd
+ 1189  ./vigenere zZ
+ 1190  ./vigenere xyz
+ 1191  make50 vigenere
+ 1192  ./vigenere xyz
+ 1193  ./vigenere abcdegklmnxyz
+ 1194  zyxvUTSRQ
+ 1195  ./vigenere zyxvUTSRQ
+ 1196  make50 vigenere
+ 1197  ./vigenere abcxyz
+ 1198  make50 vigenere
+ 1199  ./vigenere abcxyz
+ 1200  make50 vigenere
+ 1201  ./vigenere abcxyz
+ 1202  ./vigenere ab
+ 1203  make50 vigenere
+ 1204  ./vigenere ab
+ 1205  make50 vigenere
+ 1206  ./vigenere ab
+ 1207  make50 vigenere
+ 1208  ./vigenere ab
+ 1209  make50 vigenere
+ 1210  ./vigenere ab
+ 1211  make50 vigenere
+ 1212  ./vigenere ab
+ 1213  make50 vigenere
+ 1214  ./vigenere ab
+ 1215  make50 vigenere
+ 1216  ./vigenere ab
+ 1217  make50 vigenere
+ 1218  ./vigenere ab
+ 1219  clear
+ 1220  make50 vigenere
+ 1221  ./vigenere ab
+ 1222  make50 vigenere
+ 1223  ./vigenere ab
+ 1224  cd '/home/vlad/'
+ 1225  make50 виженер.c
+ 1226  make50 виженер
+ 1227  ./виженер ab
+ 1228  make50 виженер
+ 1229  ./виженер ab
+ 1230  make50 виженер
+ 1231  clear
+ 1232  make50 виженер
+ 1233  ./виженер ab
+ 1234  make50 виженер
+ 1235  ./виженер ab
+ 1236  make50 виженер
+ 1237  ./виженер ab
+ 1238  ./виженер abcd
+ 1239  make50 виженер
+ 1240  ./виженер abcd
+ 1241  make50 виженер
+ 1242  ./виженер abcd
+ 1243  make50 виженер
+ 1244  ./виженер abcd
+ 1245  make50 виженер
+ 1246  ./виженер abcd
+ 1247  make50 виженер
+ 1248  ./виженер abcd
+ 1249  make50 виженер
+ 1250  ./виженер abcd
+ 1251  make50 виженер
+ 1252  ./виженер abcd
+ 1253  make50 виженер
+ 1254  ./виженер abcd
+ 1255  sudo apt-get install '/home/vlad/Загрузки/skype.deb' 
+ 1256  ./vigenere
+ 1257  ./vigenere abc
+ 1258  ./vigenere
+ 1259  ./vigenere hello
+ 1260  pwd
+ 1261  ls
+ 1262  make50 '/home/vlad/capitalize-0.c'
+ 1263  make50 capitalize-0
+ 1264  ./capitalize-0
+ 1265  make50 capitalize-0
+ 1266  clear
+ 1267  make50 capitalize-0
+ 1268  ./capitalize-0
+ 1269  ./capitalize-0 abc
+ 1270  make50 ascii-0
+ 1271  ./ascii-0
+ 1272  make50 ascii-0
+ 1273  ./ascii-0
+ 1274  cd '/home/vlad/Dropbox/pset2/'
+ 1275  ./vigenere
+ 1276  ./vigenere abc
+ 1277  cd ~
+ 1278  cd capitalize-0
+ 1279  make50 //сначала сделаем все буквы ключа маленькими.
+ 1280  for(int i = 0, n = strlen(k); i < n; i++)
+ 1281  {
+ 1282  make50 capitalize-0.c
+ 1283  make50 capitalize-0
+ 1284  ./capitalize-0 abc
+ 1285  make50 capitalize-0
+ 1286  ./capitalize-0 abc
+ 1287  cd '/home/vlad/Dropbox/pset2/'
+ 1288  make50 vigenere
+ 1289  ./vigenere abc
+ 1290  make50 vigenere
+ 1291  ./vigenere abc
+ 1292  make50 vigenere
+ 1293  ./vigenere abc
+ 1294  make50 vigenere
+ 1295  ./vigenere abc
+ 1296  make50 vigenere
+ 1297  ./vigenere abc
+ 1298  make50 vigenere
+ 1299  ./vigenere abc
+ 1300  ./caesar
+ 1301  ./caesar 5
+ 1302  make50 vigenere-new
+ 1303  clear
+ 1304  make50 vigenere
+ 1305  ./vigenere abc
+ 1306  make50 vigenere
+ 1307  ./vigenere abc
+ 1308  make50 vigenere
+ 1309  ./vigenere abc
+ 1310  make50 vigenere
+ 1311  ./vigenere abc
+ 1312  make50 vigenere
+ 1313  ./vigenere abc
+ 1314  make50 vigenere
+ 1315  ./vigenere abc
+ 1316  make50 vigenere
+ 1317  ./vigenere abc
+ 1318  make50 vigenere
+ 1319  ./vigenere abc
+ 1320  make50 vigenere
+ 1321  ./vigenere abc
+ 1322  make50 vigenere
+ 1323  ./vigenere abc
+ 1324  make50 vigenere
+ 1325  ./vigenere abc
+ 1326  make50 vigenere
+ 1327  ./vigenere abc
+ 1328  make50 vigenere
+ 1329  ./vigenere abc
+ 1330  make50 vigenere
+ 1331  ./vigenere abc
+ 1332  make50 vigenere
+ 1333  hello!
+ 1334  make50 vigenere
+ 1335  ./vigenere abc
+ 1336  make50 vigenere
+ 1337  ./vigenere abc
+ 1338  make50 vigenere
+ 1339  ./vigenere abc
+ 1340  make50 vigenere
+ 1341  ./vigenere abc
+ 1342  make50 vigenere
+ 1343  ./vigenere abc
+ 1344  make50 vigenere
+ 1345  ./vigenere abc
+ 1346  hello, world!
+ 1347  ./vigenere abc
+ 1348  make50 vigenere
+ 1349  ./vigenere abc
+ 1350  make50 vigenere
+ 1351  ./vigenere abc
+ 1352  make50 vigenere
+ 1353  ./vigenere abc
+ 1354  cd '/home/vlad/'
+ 1355  ./ascii-0
+ 1356  make50 ascii-0
+ 1357  ./ascii-0
+ 1358  make50 ascii-1
+ 1359  ./ascii-1
+ 1360  clear
+ 1361  make50 capitalize-0
+ 1362  ./capitalize-0
+ 1363  make50 '/home/vlad/Dropbox/pset2/'
+ 1364  make50 '/home/vlad/Dropbox/pset2/vigenere'
+ 1365  .'/home/vlad/Dropbox/pset2/vigenere.c'
+ 1366  '/home/vlad/Dropbox/pset2/vigenere.c'
+ 1367  /home/vlad/Dropbox/pset2/vigenere.c
+ 1368  ./vigenere.c
+ 1369  ./vigenere
+ 1370  cd '/home/vlad/Dropbox/pset2/'
+ 1371  ./vigenere
+ 1372  ./vigenere abc
+ 1373  make50 vigenere
+ 1374  ./vigenere abc
+ 1375  make50 vigenere
+ 1376  ./vigenere abc
+ 1377  make50 vigenere
+ 1378  ./vigenere abc
+ 1379  make50 vigenere
+ 1380  ./vigenere abc
+ 1381  make50 vigenere
+ 1382  ./vigenere abc
+ 1383  cd '/home/vlad/'
+ 1384  ls
+ 1385  ./ascii-0.c
+ 1386  ./ascii-0
+ 1387  cd '/home/vlad/Dropbox/pset2/'
+ 1388  make50 vigenere
+ 1389  ./vigenere
+ 1390  ./vigenere aaa
+ 1391  make50 vigenere
+ 1392  ./vigenere aaa
+ 1393  ./vigenere bacon
+ 1394  make50 vigenere
+ 1395  ./vigenere bacon
+ 1396  make50 vigenere
+ 1397  ./vigenere aaa
+ 1398  make50 vigenere
+ 1399  ./vigenere aaa
+ 1400  ./vigenere bacon
+ 1401  make50 vigenere
+ 1402  ./vigenere bacon
+ 1403  make50 vigenere
+ 1404  ./vigenere aaa
+ 1405  make50 vigenere
+ 1406  ./vigenere bacon
+ 1407  make50 vigenere
+ 1408  ./vigenere bacon
+ 1409  make50 vigenere
+ 1410  ./vigenere bacon
+ 1411  make50 vigenere
+ 1412  ./vigenere bacon
+ 1413  ./vigenere aaaa
+ 1414  make50 vigenere
+ 1415  ./vigenere aaaa
+ 1416  make50 vigenere
+ 1417  ./vigenere aaaa
+ 1418  make50 vigenere
+ 1419  ./vigenere aaaa
+ 1420  make50 vigenere
+ 1421  ./vigenere aaaa
+ 1422  ./vigenere bbbb
+ 1423  make50 vigenere
+ 1424  ./vigenere bacon
+ 1425  make50 vigenere
+ 1426  ./vigenere bacon
+ 1427  make50 vigenere
+ 1428  ./vigenere bacon
+ 1429  ./vigenere aaaa
+ 1430  make50 vigenere
+ 1431  ./vigenere aaaa
+ 1432  ./vigenere bacon
+ 1433  ./vigenere bbbbbbbbbbb
+ 1434  make50 vigenere
+ 1435  ./vigenere aaaa
+ 1436  make50 vigenere
+ 1437  ./vigenere aaaa
+ 1438  make50 vigenere
+ 1439  ./vigenere aaaa
+ 1440  make50 vigenere
+ 1441  ./vigenere aaaa
+ 1442  make50 vigenere
+ 1443  ./vigenere aaaa
+ 1444  make50 vigenere
+ 1445  ./vigenere aaaa
+ 1446  make50 vigenere
+ 1447  ./vigenere aaaa
+ 1448  make50 vigenere
+ 1449  ./vigenere aaaa
+ 1450  make50 vigenere
+ 1451  ./vigenere aaaa
+ 1452  make50 vigenere
+ 1453  ./vigenere aaaa
+ 1454  make50 vigenere
+ 1455  ./vigenere aaaa
+ 1456  make50 vigenere
+ 1457  ./vigenere aaaa
+ 1458  ./vigenere abc
+ 1459  make50 vigenere
+ 1460  ./vigenere abc
+ 1461  make50 vigenere
+ 1462  ./vigenere abc
+ 1463  make50 vigenere
+ 1464  ./vigenere abc
+ 1465  cd '/home/vlad/Dropbox/pset2/'
+ 1466  ./ascii-0
+ 1467  make50 ascii-1
+ 1468  ./ascii-1
+ 1469  clear
+ 1470  make50 vigenere
+ 1471  ./vigenere
+ 1472  ./vigenere abc
+ 1473  make50 vigenere
+ 1474  ./vigenere abc
+ 1475  make50 vigenere
+ 1476  ./vigenere abc
+ 1477  make50 vigenere
+ 1478  ./vigenere abc
+ 1479  make50 vigenere
+ 1480  ./vigenere abc
+ 1481  make50 vigenere
+ 1482  ./vigenere abc
+ 1483  make50 vigenere
+ 1484  ./vigenere abc
+ 1485  make50 vigenere
+ 1486  ./vigenere abc
+ 1487  make50 vigenere
+ 1488  ./vigenere abc
+ 1489  make50 vigenere
+ 1490  ./vigenere abc
+ 1491  make50 vigenere
+ 1492  ./vigenere abc
+ 1493  ./vigenere abcdefg
+ 1494  ./vigenere abc
+ 1495  make50 vigenere
+ 1496  ./vigenere abcd
+ 1497  make50 vigenere
+ 1498  ./vigenere abcd
+ 1499  make50 vigenere
+ 1500  ./vigenere abcd
+ 1501  make50 vigenere
+ 1502  ./vigenere abcde
+ 1503  make50 vigenere
+ 1504  ./vigenere abcde
+ 1505  ./vigenere bacon
+ 1506  make50 vigenere
+ 1507  ./vigenere bacon
+ 1508  make50 vigenere
+ 1509  ./vigenere bacon
+ 1510  make50 vigenere
+ 1511  ./vigenere bacon
+ 1512  make50 vigenere
+ 1513  ./vigenere bacon
+ 1514  make50 vigenere
+ 1515  ./vigenere bacon
+ 1516  make50 vigenere
+ 1517  ./vigenere bacon
+ 1518  make50 vigenere
+ 1519  ./vigenere bacon
+ 1520  make50 vigenere
+ 1521  ./vigenere bacon
+ 1522  make50 vigenere
+ 1523  ./vigenere bacon
+ 1524  make50 vigenere
+ 1525  ./vigenere bacon
+ 1526  make50 vigenere
+ 1527  ./vigenere bacon
+ 1528  make50 vigenere
+ 1529  ./vigenere bacon
+ 1530  make50 vigenere
+ 1531  ./vigenere bacon
+ 1532  make50 vigenere
+ 1533  ./vigenere bacon
+ 1534  make50 vigenere
+ 1535  ./vigenere bacon
+ 1536  make50 vigenere
+ 1537  ./vigenere bacon
+ 1538  make50 vigenere
+ 1539  ./vigenere bacon
+ 1540  make50 vigenere
+ 1541  ./vigenere bacon
+ 1542  make50 vigenere
+ 1543  ./vigenere bacon
+ 1544  make50 vigenere
+ 1545  ./vigenere bacon
+ 1546  make50 vigenere
+ 1547  ./vigenere bacon
+ 1548  make50 vigenere
+ 1549  ./vigenere bacon
+ 1550  make50 vigenere
+ 1551  ./vigenere bacon
+ 1552  make50 vigenere
+ 1553  ./vigenere bacon
+ 1554  make50 vigenere
+ 1555  ./vigenere bacon
+ 1556  make50 vigenere
+ 1557  ./vigenere bacon
+ 1558  make50 vigenere
+ 1559  ./vigenere bacon
+ 1560  make50 vigenere
+ 1561  ./vigenere bacon
+ 1562  make50 vigenere
+ 1563  ./vigenere bacon
+ 1564  make50 vigenere
+ 1565  ./vigenere bacon
+ 1566  make50 vigenere
+ 1567  ./vigenere bacon
+ 1568  make50 vigenere
+ 1569  ./vigenere bacon
+ 1570  make50 vigenere
+ 1571  ./vigenere bacon
+ 1572  make50 vigenere
+ 1573  ./vigenere bacon
+ 1574  make50 vigenere
+ 1575  ./vigenere bacon
+ 1576  make50 vigenere
+ 1577  ./vigenere bacon
+ 1578  make50 vigenere
+ 1579  ./vigenere bacon
+ 1580  make50 vigenere
+ 1581  ./vigenere bacon
+ 1582  make50 vigenere
+ 1583  ./vigenere bacon
+ 1584  make50 vigenere
+ 1585  ./vigenere bacon
+ 1586  make50 vigenere
+ 1587  ./vigenere bacon
+ 1588  make50 vigenere
+ 1589  ./vigenere bacon
+ 1590  make50 vigenere
+ 1591  ./vigenere bacon
+ 1592  make50 vigenere
+ 1593  ./vigenere bacon
+ 1594  make50 vigenere
+ 1595  ./vigenere bacon
+ 1596  make50 vigenere
+ 1597  ./vigenere bacon
+ 1598  make50 vigenere
+ 1599  ./vigenere bacon
+ 1600  check50 2014.fall.pset2.vigenere vigenere.c
+ 1601  make50 vigenere
+ 1602  check50 2014.fall.pset2.vigenere vigenere.c
+ 1603  make50 vigenere
+ 1604  ./vigenere bacon
+ 1605  check50 2014.fall.pset2.vigenere vigenere.c
+ 1606  ./vigenere BAZ
+ 1607  make50 vigenere
+ 1608  ./vigenere
+ 1609  ./vigenere BaZ
+ 1610  make50 vigenere
+ 1611  ./vigenere baz
+ 1612  make50 vigenere
+ 1613  ./vigenere baz
+ 1614  make50 vigenere
+ 1615  ./vigenere baz
+ 1616  make50 vigenere
+ 1617  ./vigenere baz
+ 1618  check50 2014.fall.pset2.vigenere vigenere.c
+ 1619  make50 vigenere
+ 1620  check50 2014.fall.pset2.vigenere vigenere.c
+ 1621  make50 vigenere
+ 1622  check50 2014.fall.pset2.vigenere vigenere.c
+ 1623  gdb
+ 1624  update50
+ 1625  wget http://cdn.cs50.net/2014/fall/psets/3/pset3/pset3.zip
+ 1626  cd /home/vlad/Dropbox/pset3/find
+ 1627  make50  generate
+ 1628  ./generate
+ 1629  ./generate 5
+ 1630  ./generate 5 128
+ 1631  ./generate 5 
+ 1632  ./generate 5 128
+ 1633  make find
+ 1634  ./find
+ 1635  ./find 5
+ 1636  ./generate 1000 | ./find 42
+ 1637  ./generate 5 | ./find 42
+ 1638  ./generate 5 > ./find 42
+ 1639  ./generate 1000 > numbers.txt
+ 1640  ./find 42 < numbers.txt
+ 1641  ./find 20962 < numbers.txt
+ 1642  make clean
+ 1643  ./generate 5  > numbers.txt
+ 1644  make generate
+ 1645  ./generate 5 > numbers.txt
+ 1646  make helpers.c
+ 1647  make helpers
+ 1648  make50 helpers
+ 1649  make helpers
+ 1650  make50 helpers
+ 1651  make helpers
+ 1652  make50 helpers
+ 1653  make50 -v  helpers
+ 1654  make50  helpers -v
+ 1655  make50  helpers
+ 1656  make helpers
+ 1657  make
+ 1658  history > history.txt
